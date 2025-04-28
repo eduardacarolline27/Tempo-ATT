@@ -11,7 +11,7 @@
 
 <h1>Estrutura do Projeto 🗂️</h1>
 <pre>
-/projeto-maromba/
+/projeto-tempo/
    ├── time.c      
    ├── time_bra.c
    ├── README.md
