@@ -1,7 +1,7 @@
 <body>
 <h1>Tempo-ATT🕓</h1>
   
-<h2>Atividade envolvendo a biblioteca time.h no C </h2>
+<p>Atividade envolvendo a biblioteca time.h no C </p>
 
 <h2>time.c 🕰️</h2>
 <p>Arquivo time.c: codigo feito opara exibir Data e Hora local e no formato UTC, calcular o tempo até o coder apaertar ENTER, adionar um intervalo de tempo de 5 dias, comparando a Data atual, e formatar Data e Hora.</p>
